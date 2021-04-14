@@ -5,4 +5,4 @@
 ![made-with-jupyter](https://img.shields.io/badge/jupyter-6.0-ff7a05?style=for-the-badge&logo=Jupyter)
 ![made-with-IBMWatson](https://img.shields.io/badge/Watson-4.5-8682ff?style=for-the-badge&logo=IBM)
 
-In the notebook, i've converted speech from an audio file into text using ibm_watson SpeechToTextV1 API. Enjoy ;)
+The notebook here contains the python code that converts speech from an audio file into text using ibm_watson SpeechToTextV1 API.
